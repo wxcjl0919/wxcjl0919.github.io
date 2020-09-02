@@ -36,3 +36,39 @@ body{
 	text-decoration: none;
 }
 
+.home{
+	margin: 50px;
+	text-align: center;
+}
+p.hello{
+	font-size: 50px;
+	margin:20px;
+}
+
+.home img{
+	width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+p.name{
+	font-size: 30px;
+	margin: 10px;
+}
+
+p.title{
+	font-size: 25px;
+	margin: 20px;
+}
+
+p.introduction{
+	margin: 10px;
+	font-size: 20px;
+}
+p.interest{
+	margin:10px;
+	font-size: 20px;
+}
